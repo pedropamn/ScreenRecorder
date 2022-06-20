@@ -5,7 +5,7 @@
 </p>
 
 &rarr; __Description__ 
-* A simple Screen Recorder 
+* A simple, fast and light-weight Screen Recorder 
 
 &rarr; __Usage__ 
 * Just run the executable available in [Releases section](https://github.com/pedropamn/ScreenRecorder/releases) (Windows)
@@ -16,3 +16,7 @@
 * GUI is made entirely with PyQt5
 * The```screenrec.py``` is the main file
 *  To create executable file, run ```pyinstaller --onefile --windowed --icon=padlock.ico screenrec.py```
+
+&rarr; __To do__ 
+* Capture pointer
+* HD Recording
