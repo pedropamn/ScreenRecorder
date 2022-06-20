@@ -11,11 +11,12 @@
 * Just run the executable available in [Releases section](https://github.com/pedropamn/ScreenRecorder/releases) (Windows)
 
 &rarr; __Contribute & Build__
-* If you are a developer and would like to contribute, PyInstaller is a good option to create a build. You can install via pip 
-(```pip install PyInstaller```)
+* If you are a developer and would like to contribute, feel free to send your PR. 
 * GUI is made entirely with PyQt5
 * The```screenrec.py``` is the main file
-*  To create executable file, run ```pyinstaller --onefile --windowed --icon=padlock.ico screenrec.py```
+* PyInstaller is a good option to create a build. You can install via pip 
+(```pip install PyInstaller```)
+* To create executable file, run ```pyinstaller --onefile --windowed --icon=padlock.ico screenrec.py```
 
 &rarr; __To do__ 
 * Capture pointer
