@@ -16,7 +16,7 @@
 * The```screenrec.py``` is the main file
 * PyInstaller is a good option to create a build. You can install via pip 
 (```pip install PyInstaller```)
-* To create executable file, run ```pyinstaller --onefile --windowed --icon=padlock.ico screenrec.py```. 
+* To create executable file, run ```pyinstaller --onefile --windowed --icon=record.ico screenrec.py```. 
 * If log shows that some library is missing, just install it via ```pip install -r requirements.txt```
 
 
