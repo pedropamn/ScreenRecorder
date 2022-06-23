@@ -18,6 +18,7 @@
 (```pip install PyInstaller```)
 * To create executable file, run ```pyinstaller --onefile --windowed --icon=record.ico screenrec.py```. 
 * If log shows that some library is missing, just install it via ```pip install -r requirements.txt```
+* Executable not work so well after build with latest Python version, so Python 3.9.13 was used
 
 
 &rarr; __To do__ 
