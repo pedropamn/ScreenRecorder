@@ -26,3 +26,4 @@
 * HD Recording
 * Decrease executable file size
 * Record sound
+* Capture area
