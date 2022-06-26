@@ -24,3 +24,5 @@
 &rarr; __To do__ 
 * Capture pointer
 * HD Recording
+* Decrease executable file size
+* Record sound
